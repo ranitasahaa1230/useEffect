@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  width: 200px;
+  border: 1px solid red;
+  margin-bottom: 0.5rem;
+}
+
+.card img {
+  width: 100%;
+  object-fit: contain;
+}
